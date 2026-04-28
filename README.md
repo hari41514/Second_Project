@@ -1,3 +1,5 @@
+# About This Project:
+
 This project is a **Number Guessing Game** built as a web application using the Flask framework. It demonstrates how to manage "state" (keeping track of data over time) using **Sessions** while interacting with a user through a browser.
 
 Here is the step-by-step breakdown of how the game works:
@@ -49,7 +51,7 @@ This diagram shows how the information travels from your brain to the computer's
 4.  **Output:** The page reloads, and the new message and score are displayed back to you.
 
 
-Output(Number Guessing Game):
+# Output(Number Guessing Game):
 
 1)<img width="1920" height="1021" alt="Screenshot (159)" src="https://github.com/user-attachments/assets/af37e638-7808-402c-8718-e83dc1389832" />
 
